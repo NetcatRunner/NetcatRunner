@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm NetcatRunner 🚀🐈<img src="https://media.giphy.com/media/hNDFYn9vBLncN06Wt2/giphy.gif" width="60px" align="center"> </h1>
+<h1 align="center">Hi, I'm NetcatRunner 🌐🐈🏃‍♀️‍➡️<img src="https://media.giphy.com/media/hNDFYn9vBLncN06Wt2/giphy.gif" width="60px" align="center"> </h1>
 <h3 align="center">C/C++ Developer | Back-end & Systems Student</h3>
 
 <p align="center">
