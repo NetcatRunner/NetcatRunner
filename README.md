@@ -50,10 +50,10 @@
 </fieldset>
 </div>
 <div align="center">
-  <a href="https://github.com/NetcatRunner">
-  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/languages-output/languages.svg" height="150" alt="languages graph"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
+  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/trophy-output/trophy.svg" height="150" alt="trophy graph" /> <br>
+  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
