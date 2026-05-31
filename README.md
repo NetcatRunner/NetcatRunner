@@ -51,10 +51,12 @@
 </div>
 <div align="center">
   <a href="https://github.com/NetcatRunner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetCatRunner&show_icons=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetCatRunner&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/NetcatRunner/NetcatRunner/languages-output/languages.svg" height="150" alt="languages graph"  />
   </a>
 </div>
+
+###
 
 <br>
 <br>
